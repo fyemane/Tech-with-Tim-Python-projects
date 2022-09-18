@@ -1,5 +1,5 @@
 # Tokyo-Ed-Tech-Python-projects
-Python projects I've done from Tokyo Ed Tech
+Python projects I've done from Tokyo Ed Tech. Created games with turtle graphics and experimented with matplotlib and sqlite3 libraries.
 
 http://www.christianthompson.com/
 
